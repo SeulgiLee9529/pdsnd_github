@@ -15,16 +15,15 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
-<<<<<<< HEAD
+
 ## Files Added at 2023/01/29
 bikeshare.py
 
 # Seulgi modify
-||||||| a3e476c
 =======
 ## hello1
 
 ## hello2
 
 ## hello3
->>>>>>> cf66056bd5e7e27e8847c5f55db1fd957f6f19fe
+
