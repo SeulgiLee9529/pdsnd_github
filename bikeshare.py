@@ -216,6 +216,16 @@ def main():
 
 if __name__ == "__main__":
 	main()
+<<<<<<< HEAD
 
 
 # Seulgi modify
+||||||| a3e476c
+=======
+
+# hello1
+
+## hello2
+
+## hello3
+>>>>>>> cf66056bd5e7e27e8847c5f55db1fd957f6f19fe
